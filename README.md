@@ -63,6 +63,6 @@ python client.py
 
 3. Ad ogni mossa, il server fornisce un feedback:
 
-   * ⚫ **Piolo Nero:** Colore giusto nella posizione giusta.
+   * **Piolo Nero:** Colore giusto nella posizione giusta.
 
-   * ⚪ **Piolo Bianco:** Colore giusto ma nella posizione sbagliata.
+   * **Piolo Bianco:** Colore giusto ma nella posizione sbagliata.
